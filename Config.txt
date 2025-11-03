@@ -10,12 +10,12 @@ SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(6730956183)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://telegra.ph/file/5badd2112e1e0cdf03a1f.jpg'
+ALIVE_PIC = 'https://files.catbox.moe/zuqw3i.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
 LOG_GROUP = None
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/TEAMPURVI/ALPHA_USERBOT"
+REPO_URL = "https://github.com/KittuOP00/ALPHA_USERBOT"
 BRANCH = "main" #don't change
  
 STRING_SESSION1 = ""
