@@ -93,7 +93,7 @@ RAID = [
     "MALUM NA PHR KESE LETA HU M TERI MA KI CHUT TAPA TAPPPPP",
     "LUND KE CHODE TU KEREGA TYPIN",
     "SPEED PKD LWDEEEE",
-    "@ur_alpha_baby BAAP KI SPEED MTCH KRRR",
+    "@Uxrcqr BAAP KI SPEED MTCH KRRR",
     "LWDEEE",
     "PAPA KI SPEED MTCH NHI HO RHI KYA",
     "ALE ALE MELA BCHAAAA",
@@ -205,13 +205,13 @@ RAID = [
 ]
 
 
-GRP = "@WORLD_ALPHA"
+GRP = "@shona_userbot"
 
-GROUP = [-1002094067251]
+GROUP = [-1003276739481]
 
-VERIFIED_USERS = [6730956183]
+VERIFIED_USERS = [8457829751]
 
-Owners = "@ll_ALPHA_BABY_lll|@II_RAJA_BABU_II"
+Owners = "@Uxrcqr|@Nopesy"
 
 PORN = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
